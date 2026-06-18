@@ -23,5 +23,7 @@ El sistema imita las funciones esenciales de un terminal bancario real mediante 
 
 Estructura lógica implementada para el diseño y control del algoritmo:
 
-![Diagrama de Flujo](Diagrama-Simulador de cajero.png)
+Miralo en el archivo llamado: 
+
+Diagrama-Simulador de cajero.png
 
