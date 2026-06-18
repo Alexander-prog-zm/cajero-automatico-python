@@ -1,6 +1,6 @@
 # Simulador de Cajero Automático en Python
 
-Este repositorio contiene el desarrollo del segundo proyecto de Aprendizaje Autónomo para la materia de Lógica de Programación. Se trata de un simulador de cajero automático interactivo programado en Python, enfocado en el uso correcto de estructuras de control condicionales e iterativas.
+Mi repositorio contiene el desarrollo de un simulador de cajero automático interactivo programado en Python, enfocado en el uso correcto de estructuras de control condicionales e iterativas vistas en clases e explicadas por el docente.
 
 ## Datos del Proyecto
 
@@ -11,7 +11,7 @@ Este repositorio contiene el desarrollo del segundo proyecto de Aprendizaje Aut�
 
 ## Características del Programa
 
-El sistema imita las funciones esenciales de un terminal bancario real mediante consola:
+El sistema imita las funciones esenciales de un sistema bancario real mediante consola:
 
 * **Bloqueo de seguridad:** Control de acceso mediante PIN con un límite estricto de 3 intentos. Si se falla tres veces, el programa retiene la tarjeta y finaliza la sesión.
 * **Bucle interactivo:** Uso de un menú principal que se repite de forma continua para permitir múltiples transacciones consecutivas.
