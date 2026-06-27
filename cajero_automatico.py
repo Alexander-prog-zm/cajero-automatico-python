@@ -16,7 +16,7 @@ cliente = {
 historial_transacciones = []
 
 # ====================================================================
-# SECCIÓN DE FUNCIONES (Bloques ordenados con def)
+# SECCIÓN DE FUNCIONES 
 # ====================================================================
 
 def consultar_saldo():
@@ -79,7 +79,7 @@ def mostrar_recibo_final():
     print("-----------------------------------------")
 
 # ====================================================================
-# BLOQUE PRINCIPAL (Inicio del programa)
+# BLOQUE PRINCIPAL 
 # ====================================================================
 
 intentos_restantes = 3
